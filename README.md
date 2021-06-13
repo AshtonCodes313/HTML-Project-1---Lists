@@ -3,4 +3,4 @@ In my first lesson, I learned the followng tags: -h1 -p -em -strong -li -ul -ol 
 
 In this project I will use all of these tags.
 
-![Project Image](/img/proj1.png)
+![Project Image](proj1.png)
